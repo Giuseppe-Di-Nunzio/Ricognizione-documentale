@@ -6,7 +6,7 @@ L'Ufficio ha l'esigenza di conoscere lo stato attuale del patrimonio informativo
 E' stato nominato un ristretto gruppo di lavoro allo scopo di completare il compito entro un mese. 
 
 
-Dato che l'Ufficio è titolare di una sottoscrizione Microsoft Office 365, che il personale dislocato nelle stanze ha sviluppato, anche a seguito del trascorso periodo pandemico, competenze sufficienti all'uso degli strumenti di collaborazione remota, si concorda di creare una procedura telematica che consenta a ciascun occupante di una stanza di partecipare autonomamente e secondo i vincoli lavorativi individuali. 
+Considerato che l'Ufficio è titolare di una sottoscrizione Microsoft Office 365, che il personale dislocato nelle stanze ha sviluppato, anche a seguito del trascorso periodo pandemico, competenze sufficienti all'uso degli strumenti di collaborazione remota, si concorda di creare una procedura telematica che consenta a ciascun occupante di una stanza di partecipare autonomamente e secondo i vincoli lavorativi individuali. 
 L'idea è quella di utilizzare l'app Microsoft Elenchi (Microsoft Lists), che consente di tenere traccia delle informazioni. L'app è integrabile in un canale Teams e permette in tal modo ai componenti di un gruppo di lavoro di collaborare su degli elenchi in tutto il ciclo di vita: inserimento, modifica, cancellazione, creazione di report.
 
 
