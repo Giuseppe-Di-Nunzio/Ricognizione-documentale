@@ -1,7 +1,7 @@
 # Ricognizione documentale
 ## Piattaforma basata sugli strumenti di Microsoft Office 365 per la raccolta di informazioni sul materiale conservato presso l'Ufficio.
 
-### Caso di studio:
+### Caso di studio
 L'Ufficio ha l'esigenza di conoscere lo stato attuale del patrimonio informativo cartaceo conservato presso i propri locali. L'Ufficio è dislocato su due piani aventi ciascuno un certo numero di stanze. Le stanze sono occupate dal personale e ospitano una ampia collezione di documenti.
 E' stato nominato un ristretto gruppo di lavoro allo scopo di completare il compito entro un mese. 
 
