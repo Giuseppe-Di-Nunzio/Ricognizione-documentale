@@ -10,4 +10,6 @@ Considerato che l'Ufficio è titolare di una sottoscrizione Microsoft Office 365
 L'idea è quella di utilizzare l'app Microsoft Elenchi (Microsoft Lists), che consente di tenere traccia delle informazioni. L'app è integrabile in un canale Teams e permette in tal modo ai componenti di un gruppo di lavoro di collaborare su degli elenchi in tutto il ciclo di vita: inserimento, modifica, cancellazione, creazione di report.
 
 
-Per procedere alla ricognizione, innanzitutto si è individuata una matrice di identificazione nella quale un documento appartiene ad una categoria (es. Amministrazione) ed in subordine ad una certa tipologia (es. Normativa). Si è stabilito un tracciato record che comprenda "Piano", "Stanza", "Categoria", "Tipologia", "Quantità", "Data".
+### Schema di funzionamento
+![Come funziona](https://user-images.githubusercontent.com/98542217/232797930-a5cec68a-f662-43e8-9cfc-83e116db03a4.png)
+
