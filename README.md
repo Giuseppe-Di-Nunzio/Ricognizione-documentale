@@ -1,4 +1,4 @@
-# Ricognizione-documentale
+# Ricognizione documentale
 ## Piattaforma basata sugli strumenti di Microsoft Office 365 per la raccolta di informazioni sul materiale conservato presso l'Ufficio.
 
 ### Caso di studio:
