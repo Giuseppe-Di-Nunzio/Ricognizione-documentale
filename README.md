@@ -11,6 +11,7 @@ L'idea è quella di utilizzare l'app Microsoft Elenchi (Microsoft Lists), che co
 
 
 ### Schema di funzionamento
-![Come funziona](https://user-images.githubusercontent.com/98542217/232798571-64a7e98d-b9d7-4b5b-9654-ce5ec0881c42.png)
+![Come funziona](https://user-images.githubusercontent.com/98542217/232799544-4427998f-983c-4f96-9dac-5ab957140d2f.png)
+
 
 
